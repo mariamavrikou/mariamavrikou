@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariamavrikou
-- 🌱 I’m currently learning python, javascript, c++
+
 - 📫 How to reach me discord SkyLotus#3397
 
 <!---
